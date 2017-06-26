@@ -11,7 +11,7 @@
 #
 # @param x The object to recursively round.
 # @param digits The number of digits numeric components of x should be rounded to.
-# 
+#
 # @return The passed object x with numeric components rounded.
 rec_round <-
 function(x, digits=8)
